@@ -24,7 +24,7 @@ Currently, this mod will only work with the DMM build of the game. If you'd like
 
 The following is a guide for installing and using a free, open source VPN to launch and install DMM and also to use DMM to launch Kemono Friends 3.
 
-[VPN and KF3 Installation Guide]([https://pages.github.com/](https://docs.google.com/document/d/1773ZAVFi_7vpdzvmw0-f6AugXyMstshqB3m2tIY-hgI/edit).
+[VPN and KF3 Installation Guide]([VPN and KF3 Installation Guide](https://docs.google.com/document/d/1773ZAVFi_7vpdzvmw0-f6AugXyMstshqB3m2tIY-hgI/edit).
 
 
 
