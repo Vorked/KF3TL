@@ -1,5 +1,7 @@
-ko_fi: Vorked
-patreon: Vorked
+[Support me on Ko-Fi](https://ko-fi.com/vorked)
+[Support me on Patreon](https://www.patreon.com/Vorked)
+
+
  
 
 # Introduction
