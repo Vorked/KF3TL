@@ -1,4 +1,5 @@
-	ko_fi: Vorked 	patreon: Vorked
+ ko_fi: Vorked 
+ patreon: Vorked
  
 
 # Introduction
