@@ -26,6 +26,11 @@ The following is a guide for installing and using a free, open source VPN to lau
 
 [VPN and KF3 Installation Guide](https://docs.google.com/document/d/1773ZAVFi_7vpdzvmw0-f6AugXyMstshqB3m2tIY-hgI/edit).
 
+# UPDATING THE TRANSLATIONS
+
+The current version of the translation mod, which dictates all translations and translated assets is at version 11.6. However, you will need to manually update by using this link here, which will update over time. Placing this inside of the BepInEx folder will update all text and texture translations. This link will always contain the most up-to-date version of the mod, and if you're confused on how to install it, the VPN and KF3 Installation Guide can show you where to place the folders.
+
+[Vorked Translation Pack Update Download](https://www.mediafire.com/file/tac7i2ly13rwx2t/Vorked+Translation+Pack.zip/file).
 
 
 # Who Am I? What is this project?
@@ -36,3 +41,10 @@ I've been a fan of the series for a very long time and I was tired of not being 
 
 However, this project has been a one-man-show for a pretty long time, now. There was some help with regex from Havox, and some extra translation substitutions given by KenjiDraco, but this was mostly it in terms of content not done by myself. It's time-consuming, to say the least.
 
+# Disclaimer
+
+This translation project is **not** affiliated with Kadokawa, Sega, Appirits, or Mine Yoshizaki.
+Everything in this project is built using hand-made assets and content and nothing is used, modified, or replaced.
+No game files are modified, replaced, or otherwise changed in any way.
+This mod follows the game's terms of use for not modifying files. However, you never know if Sega, Appirits, or Kadokawa see otherwise.
+I am not liable for any issues encounted in using this mod.
