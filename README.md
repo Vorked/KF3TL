@@ -48,3 +48,12 @@ Everything in this project is built using hand-made assets and content and nothi
 No game files are modified, replaced, or otherwise changed in any way.
 This mod follows the game's terms of use for not modifying files. However, you never know if Sega, Appirits, or Kadokawa see otherwise.
 I am not liable for any issues encounted in using this mod.
+
+# Translator Mod Controls
+
+The following are controls you can use to do various functions, like toggling or restarting the translator.
+
+| Controls  | Description |
+| ------------- | ------------- |
+| ALT + 0 (zero)  | Turns on the XUnity UI  |
+| ALT + T  | Toggles the XUnity Translator from English to Japanese  |
