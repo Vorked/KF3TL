@@ -1,3 +1,3 @@
-This is the All-In-One installation for BepInEx, XUnity, and Vorked's Translation Mod for Kemono Friends 3.
+### Introduction
+KF3TL is Vorked's project to translate Kemono Friends 3 into English. This includes BepInEx and XUnity to handle translations using a mix of machine translation and thousands of lines of hand-written translations and regex.
 
-Everything in this ZIP needs to be placed inside your KFP2G folder.
