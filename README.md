@@ -60,3 +60,4 @@ The following are controls you can use to do various functions, like toggling or
 | ALT + R | Reloads the Translator (this may take awhile depending on your build |
 | ALT + Q | Reboots XUnity. Only use this if the translator has stopped working (very rare, never seen it happen) |
 | ALT + 1 | Toggles the Translator Aggregator, allowing you to see before and after translations for each line of text |
+| ------------- | ------------- |
