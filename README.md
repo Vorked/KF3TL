@@ -2,7 +2,7 @@
 
 # Introduction
 
-KF3TL is Vorked's project to translate Kemono Friends 3 into English. This includes BepInEx and XUnity to handle translations using a mix of machine translation and thousands of lines of hand-written translations and regex.
+KF3TL is Vorked's project to translate Kemono Friends 3 into English. This includes BepInEx and XUnity to handle translations using a mix of machine translation and thousands of lines of hand-written translations and regex. This also has a built-in Auto-Update tool by Katboi01, allowing the mod to check for updates without you needing to lift a finger.
 
 Currently, this mod will only work with the DMM build of the game. If you'd like to assist in getting the mobile version set up, let me know.
 
