@@ -12,6 +12,7 @@ Currently, this mod will only work with the DMM build of the game. If you'd like
 - XUnity AutoTranslator 5.2.0 for BepInEx
 - Pip's KF3Tweaks text fitter DLL
 - Vorked's Translation Pack
+- Katboi01's Translation Auto-Updater DLL
 
 # Features
 
@@ -21,6 +22,10 @@ Currently, this mod will only work with the DMM build of the game. If you'd like
 - Hundreds of pre and post processing entries to assist in forcing autotranslated content to behave as needed
 - DeepL for automatic text translation for untranslated content
 - Pip's KF3Tweaks text fitter to make more portions of the game fit into text boxes for cleaner visuals
+
+# Auto-Uploader failing to finish downloading?
+
+All you need to do is go into KFP2G > BepInEx and then delete everything inside the cache folder.
 
 # VPN Guide
 
