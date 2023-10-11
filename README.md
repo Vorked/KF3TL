@@ -33,13 +33,6 @@ The following is a guide for installing and using a free, open source VPN to lau
 
 [VPN and KF3 Installation Guide](https://docs.google.com/document/d/1773ZAVFi_7vpdzvmw0-f6AugXyMstshqB3m2tIY-hgI/edit).
 
-# UPDATING THE TRANSLATIONS
-
-The current version of the translation mod, which dictates all translations and translated assets is at version 11.6. However, you will need to manually update by using this link here, which will update over time. Placing this inside of the BepInEx folder will update all text and texture translations. This link will always contain the most up-to-date version of the mod, and if you're confused on how to install it, the VPN and KF3 Installation Guide can show you where to place the folders.
-
-[Vorked Translation Pack Update Download](https://www.mediafire.com/file/tac7i2ly13rwx2t/Vorked+Translation+Pack.zip/file).
-
-
 # Who Am I? What is this project?
 
 I am Vorked, and I have been working on this translation pack since February. Most of the work was figuring out how to do this project with no understanding of coding. After being shown someone's attempt at a fully machine translated mod of Kemono Friends 3, I decided to take it into my hands to begin translating everything properly, including textures.
