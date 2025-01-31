@@ -9,7 +9,7 @@ Currently, this mod will only work with the DMM build of the game. If you'd like
 # Included Files
 
 - BepInEx x64 5.4.21.0
-- XUnity AutoTranslator 5.2.0 for BepInEx
+- XUnity AutoTranslator 5.2.3 for BepInEx
 - Pip's KF3Tweaks text fitter DLL
 - Vorked's Translation Pack
 - Katboi01's Translation Auto-Updater DLL
